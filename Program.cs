@@ -37,6 +37,12 @@ namespace _Net_Project
           Console.WriteLine(mul);
           Console.WriteLine(n1-n2);
           Console.WriteLine(n1/n2);
+
+          //الادخال 
+          Console.Write("Entre Your Name:");
+          String Full_name=Console.ReadLine();
+          Console.WriteLine("The Name :"+Full_name);
+          
           
 
 

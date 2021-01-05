@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v\\Desktop\\.Net Project\\.Net Project.csproj": {}
+    "C:\\Users\\v\\Desktop\\.Net Project\\c#\\c-Project\\.Net Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v\\Desktop\\.Net Project\\.Net Project.csproj": {
+    "C:\\Users\\v\\Desktop\\.Net Project\\c#\\c-Project\\.Net Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v\\Desktop\\.Net Project\\.Net Project.csproj",
+        "projectUniqueName": "C:\\Users\\v\\Desktop\\.Net Project\\c#\\c-Project\\.Net Project.csproj",
         "projectName": ".Net Project",
-        "projectPath": "C:\\Users\\v\\Desktop\\.Net Project\\.Net Project.csproj",
+        "projectPath": "C:\\Users\\v\\Desktop\\.Net Project\\c#\\c-Project\\.Net Project.csproj",
         "packagesPath": "C:\\Users\\v\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v\\Desktop\\.Net Project\\obj\\",
+        "outputPath": "C:\\Users\\v\\Desktop\\.Net Project\\c#\\c-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v\\AppData\\Roaming\\NuGet\\NuGet.Config"
