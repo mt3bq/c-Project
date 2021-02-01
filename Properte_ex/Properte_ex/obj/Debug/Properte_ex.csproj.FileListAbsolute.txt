@@ -1,0 +1,6 @@
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\bin\Debug\Properte_ex.exe.config
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\bin\Debug\Properte_ex.exe
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\bin\Debug\Properte_ex.pdb
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\obj\Debug\Properte_ex.csprojResolveAssemblyReference.cache
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\obj\Debug\Properte_ex.exe
+C:\Users\v\Desktop\Full Stack\c#\Properte_ex\Properte_ex\obj\Debug\Properte_ex.pdb
